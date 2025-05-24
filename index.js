@@ -60,4 +60,5 @@ let person={
     },
 };
 
+
 person.greeting();
